@@ -6,9 +6,9 @@ Installs every package ever published to npm. Simply add this package to your de
 Please be aware, a minimum of 20 TB of free space must be available on your hard drive:
 
 ````
-$ npm install all --dev
+$ npm install all -g
 # OR
-$ yarn add all --dev
+$ yarn add all -g
 ````
 
 ## Contribute
