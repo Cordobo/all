@@ -13,4 +13,4 @@ $ yarn add all --dev
 
 ## Contribute
 
-If you find a dependency not included in `all`, please open a pull request like [https://github.com/Cordobo/all/issues/1|here]
+If you find a dependency not included in `all`, please open a pull request like [here](https://github.com/Cordobo/all/issues/1)
