@@ -3,7 +3,7 @@ Installs every package ever published to npm. Simply add this package to your de
 
 ## Installation
 
-Please be aware, a minimum of 20 TB of free space must be available on your hard drive:
+Please be aware, a minimum of 20 TB of free space must be available on your hard drive and the entire install process takes up to 2 days:
 
 ````
 $ npm install all --dev
@@ -13,4 +13,4 @@ $ yarn add all --dev
 
 ## Contribute
 
-If you find a dependency not included in `all`, please open a pull request. 
+If you find a dependency not included in `all`, please open a pull request like [https://github.com/Cordobo/all/issues/1|here]
