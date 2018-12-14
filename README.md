@@ -3,7 +3,7 @@ Installs every package ever published to npm. Simply add this package to your de
 
 ## Installation
 
-Please be aware, a minimum of 20 TB of free space must be available on your hard drive and the entire install process takes up to 2 days:
+Please be aware, a minimum of 20 TB of free space must be available on your hard drive and the entire install process takes up to 2 weeks:
 
 ````
 $ npm install all --dev
